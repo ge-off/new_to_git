@@ -1,2 +1,6 @@
 Hello, world! this is my first time using Git and looking forward to learn more about Git. YeaYah
+<<<<<<< HEAD
 Hi this was changed in master branch
+=======
+adding new text line
+>>>>>>> my-first-branch
